@@ -1,2 +1,2 @@
 zehrars-user-management:
-  role-default: Admin
+  role-default: AuthRole
